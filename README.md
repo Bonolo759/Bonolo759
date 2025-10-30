@@ -5,7 +5,7 @@
 -->
 
 🎓 I’m a student at Teneo Online School<br/>
-💻 Currently learning HTML, CSS and Delphi 12<br/>
+💻 Currently learning HTML, CSS, JavaScript and Delphi 12<br/>
 🚀 Passionate about building creative and functional projects<br/>
 🌱 Always exploring new ways to improve my coding skills<br/>
 📫 Let’s connect! Feel free to reach out or check out my repositories<br/>
